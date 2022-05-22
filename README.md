@@ -4,5 +4,5 @@ LSTAT2030 - Lab4 - package Hello
 
 To install this package run
 ```r
-devtools::instal_github("thuyldo/hello")
+devtools::install_github("thuyldo/hello")
 ```
